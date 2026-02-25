@@ -1,0 +1,31 @@
+
+.h1{
+    background-color:rgb(0, 0, 0);
+    color: #ffff;
+     width: 300px;
+     padding:10px;
+}
+
+.button{
+    background-color: #ffff;
+    color: black;
+    width: 130px;
+    height: 40px;
+    border-radius:30px;
+    border: solid 0.01px;
+}
+
+.button:hover{
+    background-color: black;
+    color: #ffff;
+}
+
+.a-content{
+    color: black;
+margin-left: 50px;
+}
+
+.p{
+    color: red;
+font-size: xx-large;
+}
